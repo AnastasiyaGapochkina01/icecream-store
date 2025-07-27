@@ -3,9 +3,7 @@
 
 # Запуск
 ```bash
-git clone https://gitlab.com/devops201206/ice_cream_store.git
-cd ice_cream_store
-docker compose up -d --build
+python -m src.app
 ```
 
 # Примеры запросов
